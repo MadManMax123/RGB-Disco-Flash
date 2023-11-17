@@ -1,0 +1,8 @@
+Remarks:
+
+- Disconnect USB Data Cable and use 12V adapter for easier demonstration at various places.
+- If connected to PC, make sure that ILED (Tx) and (Rx) are glowing and that the serial monitor is generating the RGB code. If you like a specific colour, you may note it down for later use. The code is in the given format (r,g,b).
+- For portability, you may use a DC power source such as a battery (below 25v) to power the Arudino. Connect anode to VIN and cathode to GND.
+- To restart the program, press the red button on the corner of the Arduino Board.
+- You may change the pins used to connect the LED. Change the program coding in the first three lines accordingly. But make sure that all the pins are PWM (Pulse Width Modulation) pins. 
+- In Arduino UNO, PWN pins have a dash (`) beside their number. They are all digital pins. They are ditigal I/O pins that can simulate analog data but operating at 500 Hz. However, pins A0 to A8 are generally used for analog input.
