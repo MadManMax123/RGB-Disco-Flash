@@ -1,0 +1,8 @@
+Requirements:
+
+- RGB LED (Common Cathode)
+- ARDUINO UNO R3 Board (ATmega328P processor)
+- USB CONNECTOR (USB-B to USB-A)
+- 12v AC to DC ADAPTER
+- JUMPER WIRES
+- BREADBOARD (Mini)
